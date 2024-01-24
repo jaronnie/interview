@@ -11,7 +11,7 @@ theme:
 
 nav:
   - index.md
-  - 公司.md
+  - company.md
 
 plugins:
   - search
