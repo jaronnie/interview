@@ -5,6 +5,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  logo: https://oss.jaronnie.com/avatar.png
+  favicon: https://oss.jaronnie.com/avatar.png
   custom_dir: docs
   palette:
     primary: light blue
@@ -12,6 +14,11 @@ theme:
 nav:
   - index.md
   - company.md
+  - HR:
+    - hr/index.md
+  - Golang:
+    - golang/questions-from-others.md
+    - golang/questions-from-myself.md
 
 plugins:
   - search
