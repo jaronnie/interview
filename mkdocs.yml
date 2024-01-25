@@ -19,6 +19,8 @@ nav:
   - Golang:
     - golang/questions-from-others.md
     - golang/questions-from-myself.md
+  - DB:
+    - db/redis.md
 
 plugins:
   - search
