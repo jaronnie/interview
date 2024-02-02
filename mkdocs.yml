@@ -20,6 +20,7 @@ nav:
     - golang/questions-from-others.md
     - golang/questions-from-myself.md
   - 数据库:
+    - db/mysql.md
     - db/redis.md
   - 容器:
     - container/docker.md
