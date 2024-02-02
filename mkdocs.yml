@@ -26,6 +26,10 @@ nav:
     - container/docker.md
   - 网络:
     - network/tcp.md
+  - 算法与数据结构:
+    - ds/ds.md  
+  - 项目:
+    - project/project.md  
 
 plugins:
   - search
